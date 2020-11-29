@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+{
 float stack[50];
 int n=50, top=-1;
 
